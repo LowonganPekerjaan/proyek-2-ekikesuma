@@ -92,7 +92,7 @@ Menggambarkan semua *state* (kondisi) yang dimiliki oleh suatu object dari suatu
 
     Sebuah aspek penting dari database NoSQL adalah bahwa mereka tidak memiliki skema yang telah ditetapkan, catatan dapat memiliki berbagai bidang yang diperlukan, ini dapat disebut sebagai skema yang dinamis. Banyak database NoSQL juga mendukung replikasi yang merupakan pilihan untuk memiliki replika dari server, ini memberikan kehandalan seperti dalam kasus yang pergi offline replika akan menjadi server utama. Semua server mengeksekusi transaksi yang sama dan sinkronisasi data mereka dalam rangka untuk menghilangkan kesalahan. Juga perbedaan penting antara database relasional dan database NoSQL adalah mereka tidak sepenuhnya menjamin ACID properti. kurangnya jaminan ACID dikaitkan dengan architeture penyebaran mereka yang biasanya melibatkan memiliki beberapa node untuk mencapai skalabilitas horizontal dan pemulihan dalam kasus failover. penyebaran ini, yang juga disebut sebagai replikasi, menciptakan masalah dengan sinkronisasi yang dapat menghasilkan simpul sekunder menjadi primer tetapi tidak memiliki salinan up-to-date data. NoSQL database, selain menggunakan Application Programming Interface (API) atau bahasa query untuk mengakses dan memodifikasi data, juga dapat menggunakan metode MapReduce yang digunakan untuk melakukan fungsi tertentu pada seluruh dataset dan mengambil hanya hasilnya. <sup>\[8\]</sup>
 
-    <img src="./media/image1.gif" width="251" height="90" />
+    <img src="https://github.com/LowonganPekerjaan/proyek-2-ekikesuma/blob/master/img/proposal/logo%20nosql.JPG" width="251" height="90" />
 
     Gambar 2.1 Logo *NoSQL*
 
@@ -102,10 +102,10 @@ Menggambarkan semua *state* (kondisi) yang dimiliki oleh suatu object dari suatu
 
     MongoDB adalah database yang berorientasi dokumen. Dimana skemanya bebas, yang berisi database, Koleksi, dan Dokumen. Satu database dapat memiliki beberapa Koleksi. Setiap Collection adalah kumpulan Dokumen. Struktur sistem MongoDB ditampilkan pada Gambar dibawah Koleksi dapat dibuat setiap saat, tanpa yang telah ditetapkan. Hal ini dapat juga berisi catatan dengan dokumen skema yang berbeda, yang berarti satu catatan dokumen memiliki 3 atribut, dan catatan berikutnya di Mei dokumen memiliki 10 atribut. Tipe properti dapat berupa tipe data dasar, seperti nomor, string, tanggal, dll, atau sebuah array atau hash, dan bahkan sub-dokumen. Ini dapat mewujudkan model data de-normalisasi dan meningkatkan permintaan kecepatan<sup>\[9\]</sup>. Manajemen buku teks Sistem yang didasarkan pada MongoDB akan digunakan dalam model data.
 
-    <img src="./media/image2.png" width="320" height="247" />
+    <img src="https://github.com/LowonganPekerjaan/proyek-2-ekikesuma/blob/master/img/proposal/logo%20database.JPG" width="320" height="247" />
 
     Gambar 2.2 *Model data mongodb*
 
-    <img src="./media/image3.png" width="205" height="227" />
+    <img src="https://github.com/LowonganPekerjaan/proyek-2-ekikesuma/blob/master/img/proposal/mongodb.JPG" width="205" height="227" />
 
     Gambar. 2.3 Logo *Mongodb*
