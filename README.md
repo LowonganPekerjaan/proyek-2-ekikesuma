@@ -22,16 +22,9 @@ Installation
 About
 -----
 
-| Nama         
- ----          | NPM     
-                ---      | Kelas 
-                          -----  | Prodi                                
-                                  -----                                 |
-|--------------|---------|-------|--------------------------------------|
-| Eki Kesuma M 
- ------------  | 1144087 
-                -------  | 3B    
-                          --     | D4 Teknik Informatika Politeknik Pos 
-                                  ------------------------------------  |
+Eki Kesuma M
+1144087
+D4 Teknik Informatika Politeknik Pos Indonesia 3B
+
 
 **Reference**
