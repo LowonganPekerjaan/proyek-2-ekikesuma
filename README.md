@@ -2,7 +2,7 @@
 
 (Sub Modul Pengolahan Data)
 
-<img src="./media/image1.png" width="126" height="116" />
+<img src="https://github.com/LowonganPekerjaan/proyek-2-ekikesuma/blob/master/img/proposal/logo.JPG" width="126" height="116" />
 
 to provide convenience in searching and getting information on job opportunities
 
